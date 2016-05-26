@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/haiy/AndroidStudioProjects/NetworkConnect/Application/build/intermediates/res/merged/debug/layout/sample_main.xml",
+        "source": "/Users/haiy/AndroidStudioProjects/NetworkConnect/Application/src/main/res/layout/sample_main.xml"
+    },
+    {
+        "merged": "/Users/haiy/AndroidStudioProjects/NetworkConnect/Application/build/intermediates/res/merged/debug/layout/authentication.xml",
+        "source": "/Users/haiy/AndroidStudioProjects/NetworkConnect/Application/src/main/res/layout/authentication.xml"
+    }
+]
